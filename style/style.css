@@ -1,0 +1,32 @@
+
+.container{
+   margin-bottom: 60px;
+}
+
+.orange-bg{
+    background-color: #feeae9;
+    padding: 100px;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 2.5rem;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.price{
+    color: #e83e8c;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
